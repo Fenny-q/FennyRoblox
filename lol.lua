@@ -12,5 +12,5 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 ------------------------------------------------------
 
 -- Main
-local Home = Window:NewTab("- Offline -")
+local Home = Window:NewTab("- Hi -")
 local Section = Home:NewSection("Fenny is Offline")
